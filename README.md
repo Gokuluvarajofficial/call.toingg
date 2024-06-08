@@ -35,29 +35,46 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# Project Name
+# Toingg Project
 
-This is a brief description of your project.
+Welcome to the Toingg project!
 
-## Hosted Project Link
+This project is hosted on Vercel. You can access it by clicking the link below:
 
-You can view the hosted project [here](httpscall-toingg-hm6u.vercel.app).
+[Toingg Project](httpscall-toingg-hm6u.vercel.app)
 
-## Description
+Feel free to explore the project and provide any feedback.
 
-Add a more detailed description of your project here, including its features, technologies used, etc.
+## Features
+
+- Feature 1: [Description of feature 1]
+- Feature 2: [Description of feature 2]
+- Feature 3: [Description of feature 3]
 
 ## Installation
 
-Provide instructions on how to install and run the project locally, if applicable.
+To run this project locally, follow these steps:
 
-## Usage
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Start the development server using `npm run dev`.
 
-Include information on how to use the project or any specific instructions for users.
+## Technologies Used
+
+- Next.js
+- React
+- Tailwind CSS
+- GSAP
+- ...
 
 ## Contributing
 
-If you'd like others to contribute to your project, provide guidelines for how they can do so.
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 ## License
 
