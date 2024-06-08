@@ -29,11 +29,6 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 # Toingg Project
 
@@ -41,7 +36,7 @@ Welcome to the Toingg project!
 
 This project is hosted on Vercel. You can access it by clicking the link below:
 
-[Toingg Project](httpscall-toingg-hm6u.vercel.app)
+[Toingg Project](https://call-toingg-hm6u-git-main-gokuls-projects-31f6f11e.vercel.app/)
 
 Feel free to explore the project and provide any feedback.
 
@@ -74,6 +69,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 
 ## License
