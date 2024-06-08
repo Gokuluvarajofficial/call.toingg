@@ -1,0 +1,17 @@
+/* styles/globals.css */
+
+/* Reset some default browser styles */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Global styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Add your other global styles here */
