@@ -35,5 +35,31 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Project Deplay Link : 
-httpscall-toingg-hm6u.vercel.app
+# Project Name
+
+This is a brief description of your project.
+
+## Hosted Project Link
+
+You can view the hosted project [here](httpscall-toingg-hm6u.vercel.app).
+
+## Description
+
+Add a more detailed description of your project here, including its features, technologies used, etc.
+
+## Installation
+
+Provide instructions on how to install and run the project locally, if applicable.
+
+## Usage
+
+Include information on how to use the project or any specific instructions for users.
+
+## Contributing
+
+If you'd like others to contribute to your project, provide guidelines for how they can do so.
+
+## License
+
+Specify the license under which your project is distributed, if applicable.
+
