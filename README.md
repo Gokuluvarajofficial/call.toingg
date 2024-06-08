@@ -40,12 +40,6 @@ This project is hosted on Vercel. You can access it by clicking the link below:
 
 Feel free to explore the project and provide any feedback.
 
-## Features
-
-- Feature 1: [Description of feature 1]
-- Feature 2: [Description of feature 2]
-- Feature 3: [Description of feature 3]
-
 ## Installation
 
 To run this project locally, follow these steps:
